@@ -1,0 +1,65 @@
+.flag {
+    display: inline-block;
+    text-indent: -9999px;
+}
+
+.flag-rj {
+    background: url(../images/svg/rj.svg)
+}
+
+.flag-rs {
+    background: url(../images/svg/rs.svg)
+}
+
+
+.flag-1x {
+    width: 30px;
+    height: 21px;
+    background-size: 30px 21px;
+    background-repeat: no-repeat;
+    border: 1px solid black;
+}
+
+.flag-2x {
+    width: 44px;
+    height: 31px;
+    background-size: 44px 31px;
+    background-repeat: no-repeat;
+    border: 1px solid black;
+}
+
+.flag-3x {
+    width: 58px;
+    height: 41px;
+    background-size: 58px 41px;
+    background-repeat: no-repeat;
+    border: 1px solid black;
+}
+
+.flag-4x {
+    width: 72px;
+    height: 51px;
+    background-size: 72px 51px;
+    background-repeat: no-repeat;
+    border: 1px solid black;
+}
+
+.flag-5x {
+    width: 86px;
+    height: 61px;
+    background-size: 86px 61px;
+    background-repeat: no-repeat;
+    border: 1px solid black;
+}
+
+.flag-6x {
+    width: 100px;
+    height: 71px;
+    background-size: 100px 71px;
+    background-repeat: no-repeat;
+    border: 1px solid black;
+}
+
+.flag-no-border {
+    border: none;
+}
