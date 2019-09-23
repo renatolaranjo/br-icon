@@ -3,12 +3,129 @@
     text-indent: -9999px;
 }
 
+.flag-ac {
+    background: url(../images/svg/colored/ac.svg)
+}
+
+.flag-ac-gs {
+    background: url(../images/svg/greyscale/ac.svg)
+}
+
+
+.flag-al {
+    background: url(../images/svg/colored/al.svg)
+}
+
+.flag-al-gs {
+    background: url(../images/svg/greyscale/al.svg)
+}
+
+.flag-ap {
+    background: url(../images/svg/colored/ap.svg)
+}
+
+.flag-am {
+    background: url(../images/svg/colored/am.svg)
+}
+
+.flag-ba {
+    background: url(../images/svg/colored/ba.svg)
+}
+
+.flag-ce {
+    background: url(../images/svg/colored/ce.svg)
+}
+
+.flag-df {
+    background: url(../images/svg/colored/df.svg)
+}
+
+.flag-ce {
+    background: url(../images/svg/colored/ce.svg)
+}
+
+.flag-es {
+    background: url(../images/svg/colored/es.svg)
+}
+
+.flag-go {
+    background: url(../images/svg/colored/go.svg)
+}
+
+.flag-ma {
+    background: url(../images/svg/colored/ma.svg)
+}
+
+.flag-mg {
+    background: url(../images/svg/colored/mg.svg)
+}
+
+.flag-ms {
+    background: url(../images/svg/colored/ms.svg)
+}
+
+.flag-mt {
+    background: url(../images/svg/colored/mt.svg)
+}
+
+.flag-pa {
+    background: url(../images/svg/colored/pa.svg)
+}
+
+.flag-pb {
+    background: url(../images/svg/colored/pb.svg)
+}
+
+.flag-pe {
+    background: url(../images/svg/colored/pe.svg)
+}
+
+.flag-pi {
+    background: url(../images/svg/colored/pi.svg)
+}
+
+.flag-pr {
+    background: url(../images/svg/colored/pr.svg)
+}
+
 .flag-rj {
-    background: url(../images/svg/rj.svg)
+    background: url(../images/svg/colored/rj.svg)
+}
+
+.flag-rn {
+    background: url(../images/svg/colored/rn.svg)
+}
+
+.flag-ro {
+    background: url(../images/svg/colored/ro.svg)
+}
+
+.flag-rr {
+    background: url(../images/svg/colored/rr.svg)
 }
 
 .flag-rs {
-    background: url(../images/svg/rs.svg)
+    background: url(../images/svg/colored/rs.svg)
+}
+
+.flag-sc {
+    background: url(../images/svg/colored/sc.svg)
+}
+
+.flag-se {
+    background: url(../images/svg/colored/se.svg)
+}
+
+.flag-sp {
+    background: url(../images/svg/colored/sp.svg)
+}
+
+.flag-to {
+    background: url(../images/svg/colored/to.svg)
+}
+
+.flag-rj-gs {
+    background: url(../images/svg/greyscale/rj.svg)
 }
 
 
@@ -17,7 +134,7 @@
     height: 21px;
     background-size: 30px 21px;
     background-repeat: no-repeat;
-    border: 1px solid black;
+    border: 1px solid #535354;
 }
 
 .flag-2x {
@@ -33,7 +150,7 @@
     height: 41px;
     background-size: 58px 41px;
     background-repeat: no-repeat;
-    border: 1px solid black;
+    border: 1px solid #535354;
 }
 
 .flag-4x {
@@ -41,7 +158,7 @@
     height: 51px;
     background-size: 72px 51px;
     background-repeat: no-repeat;
-    border: 1px solid black;
+    border: 1px solid #535354;
 }
 
 .flag-5x {
@@ -49,7 +166,7 @@
     height: 61px;
     background-size: 86px 61px;
     background-repeat: no-repeat;
-    border: 1px solid black;
+    border: 1px solid #535354;
 }
 
 .flag-6x {
@@ -57,7 +174,7 @@
     height: 71px;
     background-size: 100px 71px;
     background-repeat: no-repeat;
-    border: 1px solid black;
+    border: 1px solid #535354;
 }
 
 .flag-no-border {
