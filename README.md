@@ -21,7 +21,7 @@ Os ícones possuem tamanho de 1 à 6, sem cor e sem borda.
 ### Grayscaled
 
 ```html
-    <i class="flag flag-mg-bs flag-6x"></i>
+    <i class="flag flag-mg-gs flag-6x"></i>
 ```
 
 ### Sem borda
@@ -29,3 +29,8 @@ Os ícones possuem tamanho de 1 à 6, sem cor e sem borda.
 ```html
     <i class="flag flag-mg flag-3x flag-no-border"></i>
 ```
+
+#### Preview
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
