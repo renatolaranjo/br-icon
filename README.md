@@ -30,6 +30,6 @@ Os ícones possuem tamanho de 1 à 6, sem cor e sem borda.
     <i class="flag flag-mg flag-3x flag-no-border"></i>
 ```
 
-#### Preview
+### Preview
 
-![Preview](preview..png)
+![Preview](preview.png)
