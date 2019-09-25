@@ -2,6 +2,12 @@
 
 Ícones de estados brasileiros com classes css.
 
+## Instalação
+
+```bash
+    npm install br-icon
+```
+
 ## Exemplo
 
 Os ícones possuem tamanho de 1 à 6, sem cor e sem borda.
