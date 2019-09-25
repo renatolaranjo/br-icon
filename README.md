@@ -32,5 +32,4 @@ Os ícones possuem tamanho de 1 à 6, sem cor e sem borda.
 
 #### Preview
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![Preview](preview..png)
